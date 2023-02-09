@@ -1,0 +1,22 @@
+body {
+    font-size: 1.8rem;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+input {
+    width: 300px;
+    height: 60px;
+    font-size: 1.5rem;
+}
+
+button {
+    width: 250px;
+    height: 40px;
+}
